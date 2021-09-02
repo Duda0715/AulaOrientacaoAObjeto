@@ -1,0 +1,13 @@
+C:\Users\maria\Desktop\OrientaçãoAObjeto\AulaOrientacaoAObjeto-1\meuPrimeirPrograma\bin\Debug\netcoreapp3.1\meuPrimeirPrograma.exe
+C:\Users\maria\Desktop\OrientaçãoAObjeto\AulaOrientacaoAObjeto-1\meuPrimeirPrograma\bin\Debug\netcoreapp3.1\meuPrimeirPrograma.deps.json
+C:\Users\maria\Desktop\OrientaçãoAObjeto\AulaOrientacaoAObjeto-1\meuPrimeirPrograma\bin\Debug\netcoreapp3.1\meuPrimeirPrograma.runtimeconfig.json
+C:\Users\maria\Desktop\OrientaçãoAObjeto\AulaOrientacaoAObjeto-1\meuPrimeirPrograma\bin\Debug\netcoreapp3.1\meuPrimeirPrograma.runtimeconfig.dev.json
+C:\Users\maria\Desktop\OrientaçãoAObjeto\AulaOrientacaoAObjeto-1\meuPrimeirPrograma\bin\Debug\netcoreapp3.1\meuPrimeirPrograma.dll
+C:\Users\maria\Desktop\OrientaçãoAObjeto\AulaOrientacaoAObjeto-1\meuPrimeirPrograma\bin\Debug\netcoreapp3.1\meuPrimeirPrograma.pdb
+C:\Users\maria\Desktop\OrientaçãoAObjeto\AulaOrientacaoAObjeto-1\meuPrimeirPrograma\obj\Debug\netcoreapp3.1\meuPrimeirPrograma.csprojAssemblyReference.cache
+C:\Users\maria\Desktop\OrientaçãoAObjeto\AulaOrientacaoAObjeto-1\meuPrimeirPrograma\obj\Debug\netcoreapp3.1\meuPrimeirPrograma.AssemblyInfoInputs.cache
+C:\Users\maria\Desktop\OrientaçãoAObjeto\AulaOrientacaoAObjeto-1\meuPrimeirPrograma\obj\Debug\netcoreapp3.1\meuPrimeirPrograma.AssemblyInfo.cs
+C:\Users\maria\Desktop\OrientaçãoAObjeto\AulaOrientacaoAObjeto-1\meuPrimeirPrograma\obj\Debug\netcoreapp3.1\meuPrimeirPrograma.csproj.CoreCompileInputs.cache
+C:\Users\maria\Desktop\OrientaçãoAObjeto\AulaOrientacaoAObjeto-1\meuPrimeirPrograma\obj\Debug\netcoreapp3.1\meuPrimeirPrograma.dll
+C:\Users\maria\Desktop\OrientaçãoAObjeto\AulaOrientacaoAObjeto-1\meuPrimeirPrograma\obj\Debug\netcoreapp3.1\meuPrimeirPrograma.pdb
+C:\Users\maria\Desktop\OrientaçãoAObjeto\AulaOrientacaoAObjeto-1\meuPrimeirPrograma\obj\Debug\netcoreapp3.1\meuPrimeirPrograma.genruntimeconfig.cache
